@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Safa Babiker
 - 👀 I’m interested in Climate Data Analysis
 - 🌱 I’m currently learning python and R
-- 💞️ I’m looking to collaborate on data anlysis programing 
+- 💞️ I’m looking to collaborate on programing and data anlysis 
 - 📫 contact : E_mail: safa.abdelhameed@gmail.com
 
 <!---
